@@ -1,4 +1,4 @@
-# Crawling-Wiktionary
+# Wiktionary-Crawler
 
 ## Intro 
 + This is a simplified parser and crawler used to download words from Wiktionary, and write them into json files for further education/research uses.
